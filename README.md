@@ -40,3 +40,11 @@ In this episode we start to get familiar with sculpting. Things like inflate too
 
 Progress pic.
 ![episode 4 progress](./images/episode4.png)
+
+## Episode 5
+[Youtube Link](https://www.youtube.com/watch?v=fsLO1F5x7yM)
+
+In this episode we got into shading. Doing things like colors for our donuts. As well as setting up a granite couter top on a plane. I also learned about Blender Guru's website [Poliigon](https://www.poliigon.com/). Looks like he has lots of cool free (and paid) assets that I can use for my modeling. The scene is really starting to come together with color!
+Progress pic.
+![episode 5 progress](./images/episode5.png)
+
