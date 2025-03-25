@@ -32,3 +32,11 @@ Progress pic.
 
 ## Episode 4
 [Youtube Link](https://www.youtube.com/watch?v=--GVNZnSROc)
+
+We started this episode off with a technical check, to ensure that the mesh was in good shape before we proceeded. It is somtimes super valuable to do these types of checks before moving on as the problems can multiply as we progress.
+
+
+In this episode we start to get familiar with sculpting. Things like inflate tool, smooth tool, masking and mask filters to have the icing appear more fluid, more realistic.
+
+Progress pic.
+![episode 4 progress](./images/episode4.png)
