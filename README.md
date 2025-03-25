@@ -45,6 +45,17 @@ Progress pic.
 [Youtube Link](https://www.youtube.com/watch?v=fsLO1F5x7yM)
 
 In this episode we got into shading. Doing things like colors for our donuts. As well as setting up a granite couter top on a plane. I also learned about Blender Guru's website [Poliigon](https://www.poliigon.com/). Looks like he has lots of cool free (and paid) assets that I can use for my modeling. The scene is really starting to come together with color!
+
 Progress pic.
 ![episode 5 progress](./images/episode5.png)
+
+## Episode 6
+[Youtube Link](https://www.youtube.com/watch?v=TLrA6eJOfqk&list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z&index=7)
+
+In this episode, we explored geometry nodes! This seems like a really cool feature which allows us to combing different modifiers a d functions in a node like editor, to create some really cool effects. It allowed us to spread a bunch of sprinkles around the top of our donut. We made use of weight painting to control the density of the sprinkles.
+
+**Important** We checked the size of our model was accurate at this point, as it can affect things later if our model sizes are not correct (like camera Field of View), so we are better off using accurate sizes from the start. Apparently there is a feature to use English units (like feet).
+
+Oooh, look at that donut really coming together.
+![episode 6 progress](./images/episode6.png)
 
