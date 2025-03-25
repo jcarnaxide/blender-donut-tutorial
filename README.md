@@ -21,3 +21,14 @@ In this video, we start making the basic shape of the donut, and adding some def
 
 Here is a snapshot of my progress.
 ![episode 2 progress](./images/episode2.png)
+
+## Episode 3
+[Youtube Link](https://www.youtube.com/watch?v=AqJx5TJyhes&list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z&index=3)
+
+This episode really picked up speed, we are getting into setting up the icing on the donut. We ended up duplicating our first mesh, and deleting the bottom half of the vertices to come up with the icing mesh. We then used some modifiers to add some thickness too it, add some more geometry to it, so that we can modify it nicely. We also made use of extrusion to creat some driplets of icing going down the side.
+
+Progress pic.
+![episode 3 progress](./images/episode3.png)
+
+## Episode 4
+[Youtube Link](https://www.youtube.com/watch?v=--GVNZnSROc)
