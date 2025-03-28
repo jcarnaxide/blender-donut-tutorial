@@ -59,3 +59,10 @@ In this episode, we explored geometry nodes! This seems like a really cool featu
 Oooh, look at that donut really coming together.
 ![episode 6 progress](./images/episode6.png)
 
+## Episode 7
+[Youtube Link](https://www.youtube.com/watch?v=EWTOy5-e4Ns&list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z&index=7)
+
+In this episode we did some further exploration of geometry nodes. We made some more complex sprinkles (the long sprinkles) and we learned how to do things like randomly select options, randomly rotate them, etc. We even did a bit more edit mode on meshes to come up with the different shapes and sizes of sprinkles.
+
+Those sprinkles are looking mighty fine!
+![episode 7 progress](./images/episode7.png)
