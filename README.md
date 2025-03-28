@@ -66,3 +66,13 @@ In this episode we did some further exploration of geometry nodes. We made some 
 
 Those sprinkles are looking mighty fine!
 ![episode 7 progress](./images/episode7.png)
+
+## Episode 8
+[Youtube Link](https://www.youtube.com/watch?v=D2rZljDYGdM&list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z&index=8)
+
+In this episode we dove into materials a bit more. We modified the colors of the sprinkles in the shading window. This also uses a node like editor to add/connect/modify different types of nodes to generate the desired material output. We did things like modify the colors, make things look metallic, and even setup sub-surface scattering to give the materials a more food-like feel.
+
+We also took a look at how the renderer works. I switched to cycles, which is a higher fidelity renderer, it takes longer than the default EEVEE, but makes for some really high-quality, realisting looking renders.
+
+Look at that subsurface scattering, now we are getting somewhere!
+![episode 8 progress](./images/episode8.png)
