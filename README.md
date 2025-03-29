@@ -76,3 +76,6 @@ We also took a look at how the renderer works. I switched to cycles, which is a 
 
 Look at that subsurface scattering, now we are getting somewhere!
 ![episode 8 progress](./images/episode8.png)
+
+There was a small homework assignment to try and create a plate on our own, I think mine came out pretty good!
+![episode 8 homework](./images/episode8_homework.png)
