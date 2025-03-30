@@ -79,3 +79,19 @@ Look at that subsurface scattering, now we are getting somewhere!
 
 There was a small homework assignment to try and create a plate on our own, I think mine came out pretty good!
 ![episode 8 homework](./images/episode8_homework.png)
+
+## Episode 9
+[Youtube Link](https://www.youtube.com/watch?v=iv9p3x85Ty0&list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z&index=9)
+
+In this episode, we worked on the layout of the scene. I ended up following Andrew's method to make the plate, it came out pretty much the same, maybe a little bit better, it was nice practice still. We also ended up placing a few more donuts, changed the color and arrangement of icing. We also adjusted the camera, and setup a backdrop. The scene is really coming together at this point!
+
+Wow look at all those donuts!
+![episode 9 progress](./images/episode9.png)
+
+## Episode 10
+[Youtube Link](https://www.youtube.com/watch?v=KO29y5eW61g&list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z&index=10)
+
+In this episode we learned about lighting in Blender. I created a box to surround my scene, as well as switched to a skybox lighting, which gives us a virtual sun, and ambient sky lighting. We essentially simulated a kitchen in a house with a window. We also added a few items to the background to give some more variety and depth to the scene. The renders are starting to take a bit longer at this point...
+
+What a nice warm sunlight.
+![episode 10 progress](./images/episode10.png)
