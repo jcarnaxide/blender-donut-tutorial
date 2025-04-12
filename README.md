@@ -95,3 +95,13 @@ In this episode we learned about lighting in Blender. I created a box to surroun
 
 What a nice warm sunlight.
 ![episode 10 progress](./images/episode10.png)
+
+## Episode 11
+[Youtube Link](https://www.youtube.com/watch?v=nxrEV-OUTEg&list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z&index=11)
+
+In this episode, we learned about compositing. This is a way to modify our renders after they have been generated, a type of post processing. We ended up adding some lens glare to the image, so that the metallic sprinkles have a little bit of a glare.
+
+Some tips, don't go overboard with the effects, subtleness is your friend. Also the view sample will not work until you have at least one render done (mash that F12 button!) You can also view the postprocessing on your 3D workspace by enabling it in the dropdown.
+
+Now our scene is looking ever more realistic!
+![episode 11 progress](./images/episode11.png)
