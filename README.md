@@ -105,3 +105,38 @@ Some tips, don't go overboard with the effects, subtleness is your friend. Also 
 
 Now our scene is looking ever more realistic!
 ![episode 11 progress](./images/episode11.png)
+
+## Episode 12
+[Youtube Link](https://www.youtube.com/watch?v=4-tCn4-GfM4&list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z&index=12)
+
+For animation, I learned about creating keyframes (Hotkey "I"), and setting it up to whatever field needs to be animated. Blender's keyframe system changed a lot since the intial video came out, so I had to experiment a little bit to figure it out, but the new system is pretty intuitive. I also learned about curves, and how to make animations happen for gradually or rapidly. Also normalizing allowed us to view more than one curve at the same time (beware moving key frames during this mode however, only use it to adjust curves.)
+
+## Episode 13
+For rendering I learned a valuable lesson, which is to do some last spot checking of your scene to find any potential issues before submitting a 10hr plus render. Some things to check for include:
+
+1. Face orientation check, certain shapes are meant to be seen on meshes vs others, this mode allows us to quickly identify things that may need to be inverted (for example being inside of a cube.)
+1. Unwanted object check, just scour your scene and check for anything that doesn't belong, (or perhaps missing objects.)
+1. Intersection check, scan the scene from different angles, make sure objects that shouln'd be overlapping are not.
+1. Exposure check, Color Management -> View Transform -> change from AGX to False Color. This will allow us to see how exposed the scene is and tweak it.
+1. Color check, just review the general colors of materials and modify them if neccesary.
+
+We also learned about what are some common frame rate's and what an appropriate sample count would be. 30 FPS seems to be the most commonly chosen frame rate on the iternet, and 500 samples per frame should be just enough to get something looking good. Some other settings I used was the AI denoiser, and skipped the noise threshold. I also did not use the time limit setting per frame. Typically when rendering, we will also want to render to still images first, that way if something were to go wrong, god-forbid, we can continue our rendering sequence from where we left off. I ended up using TIFF for higher quality, but PNG is also typically ok for this.
+
+Some other things to think about include composition, lighting, Sub-Surface-Scattering for materials. Make sure that there is a good spread of small/medium/large details. Check the Sky-lighting.
+
+Also wanted to give a shout to adding Depth of Field (as all cameras pretty much have this, it will add some realism to the animation.) Camera -> Data -> Depth of Field, click the eye-dropper tool, and click on whatever should be in focus. Also change the F-Stop to increase how much of the image is in focus.
+
+Also enable Render -> Motion Blur
+
+## Episode 14
+The last episode was Video Editing.
+
+Its best to create a new blender file to combine still images into an animation.
+
+Shift+A -> Choose Image Sequence -> find the still iamges -> A to select everthing. Make sure the FPS matches what we expect. We extend the end of the video a little bit to hold on the end frame, also have it fade to black.
+
+MPEG-4 is the way to go, don't mess around with the other stuff. Output quality of perceptually lossless is good. Once I was done, I just used [ezgif](https://ezgif.com/video-to-gif) to convert my video to a gif to share in my README.
+
+I am pretty happy with the final product, I learned so much along the way with this tutorial series.
+
+![final animation gif](./images/donut-animation.gif)

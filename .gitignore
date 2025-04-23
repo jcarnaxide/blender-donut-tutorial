@@ -1,2 +1,5 @@
 # Backups
 *.blend1
+
+# Intermediate files for animations
+Frames/
